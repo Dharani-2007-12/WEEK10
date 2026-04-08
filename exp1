@@ -4,7 +4,7 @@ int main () {
     int *p=arr;
     int *p1=&arr[2];
     int *p2=&arr[3];
-    printf("REGD NO:25331A05F7\n");
+    printf("REGD NO:25331A05C8\n");
     printf("pointer increment:\n");
     printf("p=%p,*p=%d\n",p,*p);
     p++;
